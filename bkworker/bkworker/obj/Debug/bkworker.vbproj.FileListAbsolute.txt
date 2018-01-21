@@ -1,0 +1,10 @@
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\bin\Debug\bkworker.exe
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\bin\Debug\bkworker.pdb
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\bin\Debug\bkworker.xml
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.vbprojResolveAssemblyReference.cache
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.Form1.resources
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.Resources.resources
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.vbproj.GenerateResource.Cache
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.exe
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.xml
+c:\users\elohim a. r\documents\visual studio 2015\Projects\bkworker\bkworker\obj\Debug\bkworker.pdb
